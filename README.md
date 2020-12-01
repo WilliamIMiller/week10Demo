@@ -2,7 +2,7 @@
 
 ### Breakfast
 
-For brekfast I have had a chocolate reindeer
+For brekfast I have had a chocolate reindeer from the advent calendar
 
 ### Linked In
 
