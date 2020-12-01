@@ -10,6 +10,7 @@ For brekfast I have had a chocolate reindeer
 
 ## Octocat
 
+![Octocat](https://github.com/WilliamIMiller/week10Demo/blob/main/octocat.png)
 
 ## Facorite games
 1. Minecraft
